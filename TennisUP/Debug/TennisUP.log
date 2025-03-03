@@ -1,0 +1,21 @@
+﻿  TennisUP.cpp
+C:\Users\user\source\repos\TennisUP\TennisUP.cpp(16,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\TennisUP\TennisUP.cpp(16,17): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\TennisUP\TennisUP.cpp(16,14): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\TennisUP\TennisUP.cpp(43,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\TennisUP\TennisUP.cpp(44,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\TennisUP\TennisUP.cpp(70,1): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\user\source\repos\TennisUP\TennisUP.cpp(91,1): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\user\source\repos\TennisUP\TennisUP.cpp(111,1): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\user\source\repos\TennisUP\TennisUP.cpp(202,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\TennisUP\TennisUP.cpp(205,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\TennisUP\TennisUP.cpp(209,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\TennisUP\TennisUP.cpp(213,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+raylib.lib(rcore.obj) : warning LNK4099: "" PDB не найден с "raylib.lib(rcore.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+raylib.lib(rglfw.obj) : warning LNK4099: "raylib.pdb" PDB не найден с "raylib.lib(rglfw.obj)" или на "C:\Users\user\source\repos\TennisUP\Debug\raylib.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+raylib.lib(rshapes.obj) : warning LNK4099: "raylib.pdb" PDB не найден с "raylib.lib(rshapes.obj)" или на "C:\Users\user\source\repos\TennisUP\Debug\raylib.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+raylib.lib(rtext.obj) : warning LNK4099: "raylib.pdb" PDB не найден с "raylib.lib(rtext.obj)" или на "C:\Users\user\source\repos\TennisUP\Debug\raylib.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+raylib.lib(rtextures.obj) : warning LNK4099: "raylib.pdb" PDB не найден с "raylib.lib(rtextures.obj)" или на "C:\Users\user\source\repos\TennisUP\Debug\raylib.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+raylib.lib(utils.obj) : warning LNK4099: "raylib.pdb" PDB не найден с "raylib.lib(utils.obj)" или на "C:\Users\user\source\repos\TennisUP\Debug\raylib.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  TennisUP.vcxproj -> C:\Users\user\source\repos\TennisUP\Debug\TennisUP.exe
